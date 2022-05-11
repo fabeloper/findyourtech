@@ -1,0 +1,41 @@
+.character-modal {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 5px;
+  justify-content: space-around;
+  .image-wrapper {
+    width: 120px;
+    height: 120px;
+    margin: 10px;
+    overflow: hidden;
+    border-radius: 100%;
+    border: 2px solid #b58900;
+    cursor: pointer;
+
+    &:hover {
+      border: 5px solid #d33682;
+    }
+  }
+}
+
+.characters-selected {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 10px;
+
+  .character {
+    display: flex;
+    flex-direction: row;
+    max-height: 70px;
+    align-items: center;
+    margin: 5px; 
+
+    img {
+      max-height: 30px;
+      max-width: 30px;
+    }
+    span {
+      margin-left: 10px;
+    }
+  }
+}
