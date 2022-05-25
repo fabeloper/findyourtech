@@ -7,7 +7,8 @@ export const SFV_CHARACTERS = [
   {
     name: "Chun Li",
     archetype: "Footsies / Neutral",
-    image: "https://pbs.twimg.com/media/ET1aFhsXkAQvRP6?format=png&name=360x360",
+    image:
+      "https://pbs.twimg.com/media/ET1aFhsXkAQvRP6?format=png&name=360x360",
   },
   {
     name: "Nash",
@@ -155,6 +156,30 @@ export const SFV_CHARACTERS = [
       "https://pbs.twimg.com/media/ET1bXt_XgAEaWG8?format=png&name=360x360",
   },
   {
+    name: "G",
+    archetype: "Rushdown",
+    image:
+      "https://pbs.twimg.com/media/ET1boddX0AQoMnH?format=png&name=small",
+  },
+  {
+    name: "Sagat",
+    archetype: "Shoto",
+    image:
+      "https://pbs.twimg.com/media/ET1bpqfWkAEj21U?format=png&name=small",
+  },
+  {
+    name: "Kage",
+    archetype: "Shoto",
+    image:
+      "https://pbs.twimg.com/media/ET1brkSWsAYV2SQ?format=png&name=360x360",
+  },
+  {
+    name: "Poison",
+    archetype: "Zoner",
+    image:
+      "https://pbs.twimg.com/media/ET1bszSX0AUUG_t?format=png&name=small",
+  },
+  {
     name: "Sakura",
     archetype: "Shoto",
     image:
@@ -218,5 +243,83 @@ export const SFV_CHARACTERS = [
     name: "Luke",
     archetype: "Shoto",
     image: "https://pbs.twimg.com/media/FFdWiQ3X0AI0OV-?format=png&name=small",
+  },
+];
+
+export const MVSUS_CHARACTERS = [
+  {
+    name: "Taz",
+    archetype: "Bruiser",
+    image: "https://cdn.multiversus.com/roster/taz-t.webp",
+  },
+  {
+    name: "Velma",
+    archetype: "Support",
+    image: "https://cdn.multiversus.com/roster/velma-t.webp",
+  },
+  {
+    name: "Arya",
+    archetype: "Assasin",
+    image: "https://cdn.multiversus.com/roster/arya-t.webp",
+  },
+  {
+    name: "Batman",
+    archetype: "Rushdown",
+    image: "https://cdn.multiversus.com/roster/batman-t.webp",
+  },
+  {
+    name: "Bugs Bunny",
+    archetype: "Mage / Ranged",
+    image: "https://cdn.multiversus.com/roster/bugs-t.webp",
+  },
+  {
+    name: "Finn the Human",
+    archetype: "Assasin",
+    image: "https://cdn.multiversus.com/roster/finn-t.webp",
+  },
+  {
+    name: "Garnet",
+    archetype: "Bruiser",
+    image: "https://cdn.multiversus.com/roster/garnet-t.webp",
+  },
+  {
+    name: "Harley Quinn",
+    archetype: "Assasin",
+    image: "https://cdn.multiversus.com/roster/harley-t.webp",
+  },
+  {
+    name: "Jake the dog",
+    archetype: "Bruiser",
+    image: "https://cdn.multiversus.com/roster/jake-t.webp",
+  },
+  {
+    name: "Reindog",
+    archetype: "Support",
+    image: "https://cdn.multiversus.com/roster/reindog-t.webp",
+  },
+  {
+    name: "Shaggy",
+    archetype: "Bruiser",
+    image: "https://cdn.multiversus.com/roster/shaggy-t.webp",
+  },
+  {
+    name: "Steven Universe",
+    archetype: "Support",
+    image: "https://cdn.multiversus.com/roster/steven-t.webp",
+  },
+  {
+    name: "Superman",
+    archetype: "Tank",
+    image: "https://cdn.multiversus.com/roster/superman-t.webp",
+  },
+  {
+    name: "Tom and Jerry",
+    archetype: "Mage / Ranged",
+    image: "https://cdn.multiversus.com/roster/tom-and-jerry-t.webp",
+  },
+  {
+    name: "Wonderwoman",
+    archetype: "Tank",
+    image: "https://cdn.multiversus.com/roster/wonder-woman-t.webp",
   },
 ];
